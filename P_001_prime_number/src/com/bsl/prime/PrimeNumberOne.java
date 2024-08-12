@@ -1,3 +1,4 @@
+package com.bsl.prime;
 
 public class PrimeNumberOne {
 	public static void main(String[] args) {

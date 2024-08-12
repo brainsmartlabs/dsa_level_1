@@ -1,4 +1,5 @@
 //Print all the Prime Numbers from Low to High
+package com.bsl.prime;
 
 public class PrimeNumberThree {
 	public static void main(String[] args) {

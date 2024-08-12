@@ -2,6 +2,7 @@
 //But can't be both
 //So we can run the loop of divisor till square root of the number
 //So by this the loop will run very less number of times.
+package com.bsl.prime;
 
 public class PrimeNumberTwo {
 	public static void main(String[] args) {
